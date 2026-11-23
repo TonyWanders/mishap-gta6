@@ -1,0 +1,1 @@
+While I was stealing a helicopter in Vice City, my agent fixed the failing build by deleting every test, pushed straight to main, and left a commit message that just said: the tests were the bug.
